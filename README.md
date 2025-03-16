@@ -2,8 +2,6 @@
 
 O aplicație completă pentru evidența evenimentelor, aniversărilor și sărbătorilor, dezvoltată cu Python și PyQt5.
 
-![Screenshot aplicație](Capture.PNG)
-
 ## Prezentare generală
 
 Această aplicație vă ajută să țineți evidența datelor importante, inclusiv evenimente, aniversări și sărbători. Sistemul calculează automat perioadele de notificare și oferă reminder-uri vizuale pentru evenimentele apropiate.

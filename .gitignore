@@ -1,7 +1,9 @@
 .venv/
 .idea/
 build/
+dist/
 log.txt
 sarbatori.csv
 aniversari.csv
 informatii.csv
+Reminder.exe
