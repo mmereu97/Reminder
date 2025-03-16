@@ -1,0 +1,98 @@
+{
+    "x": 2111,
+    "y": 1,
+    "width": 413,
+    "height": 1352,
+    "eventNameFont": 28,
+    "serviceEventFont": 22,
+    "dateFont": 22,
+    "deadlineFont": 22,
+    "csvFontSize": 14,
+    "tooltipFontSize": 12,
+    "visibility_index": 1,
+    "service_visibility": "Evenimente serviciu ascunse",
+    "use_work_schedule": true,
+    "work_schedule": {
+        "Luni": {
+            "start": "08:00",
+            "end": "16:00",
+            "day_off": false
+        },
+        "Marți": {
+            "start": "08:00",
+            "end": "16:00",
+            "day_off": false
+        },
+        "Miercuri": {
+            "start": "08:00",
+            "end": "16:00",
+            "day_off": false
+        },
+        "Joi": {
+            "start": "08:00",
+            "end": "16:00",
+            "day_off": false
+        },
+        "Vineri": {
+            "start": "08:00",
+            "end": "16:00",
+            "day_off": false
+        },
+        "Sâmbătă": {
+            "start": "00:00",
+            "end": "00:00",
+            "day_off": true
+        },
+        "Duminică": {
+            "start": "00:00",
+            "end": "00:00",
+            "day_off": true
+        }
+    },
+    "aniversari.csv_column_widths": {
+        "0": 550,
+        "1": 150,
+        "2": 70,
+        "3": 150,
+        "4": 77,
+        "5": 150,
+        "6": 257
+    },
+    "informatii.csv_column_widths": {
+        "0": 468,
+        "1": 150,
+        "2": 70,
+        "3": 150,
+        "4": 100,
+        "5": 77,
+        "6": 150,
+        "7": 100,
+        "8": 334
+    },
+    "show_commemorations": true,
+    "comemorari.csv_column_widths": {
+        "0": 602,
+        "1": 59,
+        "2": 148,
+        "3": 65,
+        "4": 63,
+        "5": 447,
+        "6": 396,
+        "7": 295
+    },
+    "commemorationTypeFont": 22,
+    "sarbatori.csv_column_widths": {
+        "0": 669,
+        "1": 49,
+        "2": 150,
+        "3": 49,
+        "4": 57,
+        "5": 444,
+        "6": 430,
+        "7": 289
+    },
+    "mainButtonsFontSize": 16,
+    "buttonSpacing": 1,
+    "buttonVerticalPadding": 3,
+    "maximized": false
+}

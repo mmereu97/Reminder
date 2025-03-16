@@ -1,0 +1,7 @@
+.venv/
+.idea/
+build/
+log.txt
+sarbatori.csv
+aniversari.csv
+informatii.csv
