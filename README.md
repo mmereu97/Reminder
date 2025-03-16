@@ -2,7 +2,7 @@
 
 O aplicație completă pentru evidența evenimentelor, aniversărilor și sărbătorilor, dezvoltată cu Python și PyQt5.
 
-![Screenshot aplicație](Capture.png)
+![Screenshot aplicație](Capture.PNG)
 
 ## Prezentare generală
 
