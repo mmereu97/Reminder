@@ -7,3 +7,5 @@ sarbatori.csv
 aniversari.csv
 informatii.csv
 Reminder.exe
+*.json
+log.txt
